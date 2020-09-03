@@ -1,0 +1,27 @@
+.country-info{
+    background: #ffffff;
+    padding: 10px 20px;
+    margin: 10px 0px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+}
+.country_img img{
+    height: 70px;
+}
+.country_img{
+    width: 500px;
+}
+.country_about{
+    width: 400px;
+}
+.details_btn a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    list-style: none;
+    font-size: 18px;
+}
+.details_btn a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}

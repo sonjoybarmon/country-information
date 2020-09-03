@@ -1,0 +1,14 @@
+.menu-li{
+    font-size: 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 39px;
+    padding-left: .5rem;
+    text-align: center;
+}
+.navbar-light .navbar-brand {
+    color: rgb(245 232 232 / 90%);
+}

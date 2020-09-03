@@ -1,0 +1,12 @@
+.info-box{
+    background:#ffffff;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    padding: 30px;
+    margin-top: 20px;
+}
+.info-img img{
+    width: 600px;
+    height: 300px;
+    margin-top: 50px;
+}
